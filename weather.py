@@ -5,7 +5,7 @@ import requests,json
 #URL for Current Weather
 api_url="https://api.openweathermap.org/data/2.5/weather"
 
-api_key="de6ef50b9b73ae0a6961a9086b2cfd6a"#paste your api key here,this APIkey in code will change
+api_key="paste your api key here,this APIkey in code will change"
 
 def get_query_params(city_name):
 
