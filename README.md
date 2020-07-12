@@ -1,5 +1,5 @@
 # WeatherApp
-This is used to know the weather in the given place.
+This is used to know the weather in the given place at current time.
 
 1.Download all the files<br>
 2.Run the gui.py file,Weather app opens up and type whatever the city you want to know weather.<br>
