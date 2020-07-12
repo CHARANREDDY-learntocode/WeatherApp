@@ -1,0 +1,18 @@
+                ***Weather App***
+
+Step-1:
+-->For this project,you need an API key from https://openweathermap.org/.
+-->After getting this api key,paste the API key in weather.py file where the text will be like "Paste your API key here".
+
+
+Step-2:
+-->Python Software
+-->python libraries
+	1.tkinter
+	2.requests
+	3.json
+	4.pillow
+	5.openpyxl
+	6.pandas(To read data from excel file to stop updating)
+	7.time
+
